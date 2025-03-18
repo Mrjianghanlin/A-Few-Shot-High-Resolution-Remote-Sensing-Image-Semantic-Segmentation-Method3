@@ -1,0 +1,4 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numpy in d:\install_sofaware\anaconda\envs\pytorch\lib\site-packages (1.17.0)
+Requirement already satisfied: wheel in d:\install_sofaware\anaconda\envs\pytorch\lib\site-packages (0.37.1)
+Requirement already satisfied: setuptools in d:\install_sofaware\anaconda\envs\pytorch\lib\site-packages (58.0.4)

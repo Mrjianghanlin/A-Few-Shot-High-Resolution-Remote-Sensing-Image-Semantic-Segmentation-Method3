@@ -1,0 +1,9 @@
+exp/*
+logs/best_epoch_weights.pth
+*.pth
+*.tif
+*__pycache__*
+*.tar
+*.gz
+*.zip
+venv/

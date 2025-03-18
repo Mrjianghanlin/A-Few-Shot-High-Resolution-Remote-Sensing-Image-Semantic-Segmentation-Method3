@@ -1,0 +1,17 @@
+pyyaml>=5.4.0
+easydict
+TensorBoardX
+tensorboard
+opencv-python
+scipy~=1.5.2
+scikit-learn
+scikit-image
+einops
+h5py~=2.10.0
+gdal
+numpy~=1.19.2
+pillow~=8.3.1
+torchvision~=0.11.3
+tqdm~=4.63.0
+matplotlib~=3.1.2
+yaml~=0.2.5
